@@ -1,6 +1,9 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata
+.httr-oauth
+.DS_Store
+.quarto
 
 data/gtfs_feeds/wmata
+data/osm_extracts/geofabrik*
