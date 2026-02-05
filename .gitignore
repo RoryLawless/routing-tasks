@@ -7,3 +7,4 @@
 
 data/gtfs_feeds/wmata
 data/osm_extracts/geofabrik*
+data/osm_extracts/*opl
